@@ -8,7 +8,7 @@ import org.junit.Test;
 
 import com.windy.common.libraries.HelloWorld;
 
-public class testHelloWorld {
+public class HelloWorldTests {
 	private HelloWorld helloworld;
 	@Before
 	public void	initUnitClass(){
